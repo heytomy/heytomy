@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   <script src="https://tryhackme.com/badge/1157187"></script>
 </div>
 
 - 👋 Hi, I’m Thomas NISI
