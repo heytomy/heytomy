@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Thomas NISI
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP (Native, Symfony) / JS (Native, React) 
-- 💞️ I’m looking to collaborate on project that can make us evolve 
+- 🌱 I’m currently learning PHP (Symfony) / JS (Native, React)
+-  I’m looking to collaborate on project that can make us evolve 
 
 <!---
 heytomy/heytomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
